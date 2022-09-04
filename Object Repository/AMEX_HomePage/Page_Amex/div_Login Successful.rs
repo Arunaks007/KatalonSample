@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login Successful</name>
+   <tag></tag>
+   <elementGuidId>5375a4e0-0fcd-4f84-ad17-3c957b7225aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ct-container']/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ct-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0589dd8c-f766-4ba1-90f2-ac718c1e4b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ct-text</value>
+      <webElementGuid>9db53e20-0362-4499-80bf-3991c7617f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login Successful</value>
+      <webElementGuid>7e62a8ee-68d1-44f4-9e69-a49b70ae6310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ct-container&quot;)/div[@class=&quot;ct-row&quot;]/div[@class=&quot;ct-group&quot;]/div[@class=&quot;ct-toast  ct-toast-success&quot;]/div[@class=&quot;ct-text-group-heading&quot;]/div[@class=&quot;ct-text&quot;]</value>
+      <webElementGuid>3d7fc1f5-cd59-46f9-8dff-0e49193bd62b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ct-container']/div/div[3]/div/div/div</value>
+      <webElementGuid>07bfb07e-c810-430a-a041-58f06f9c48fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[1]</value>
+      <webElementGuid>7e9199b3-d973-40b6-83ce-6088aa9ddcd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[2]/following::div[15]</value>
+      <webElementGuid>9b0bd740-75f4-4676-a8a4-f9dcea683c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login Successful']/parent::*</value>
+      <webElementGuid>0930dba6-614d-4782-a97a-2e521ff2aa5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div</value>
+      <webElementGuid>ffa1977a-7e06-4760-8660-8d10da5934d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login Successful' or . = 'Login Successful')]</value>
+      <webElementGuid>1dcd229b-05e2-432d-853b-c4341dfe7afc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Client ID</name>
+   <tag></tag>
+   <elementGuidId>4960ebd1-7003-469e-9343-4f33675dec94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/div/div/div/div/div/div[2]/div/form/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d14c17a3-1b04-483d-ad9f-be7e444ab09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>client</value>
+      <webElementGuid>a9ac8cd2-4071-483d-907b-b8646c08f764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Client ID</value>
+      <webElementGuid>36983722-4533-4175-82cb-12223d82f100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;theme-hero-area&quot;]/div[@class=&quot;theme-hero-area-body&quot;]/div[@class=&quot;theme-page-section _pt-100 theme-page-section-xl&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5 col-md-offset-4 col-sm-7 col-sm-offset-3 col-xs-12&quot;]/div[@class=&quot;theme-login&quot;]/div[@class=&quot;theme-login-box&quot;]/div[@class=&quot;theme-login-box-inner&quot;]/form[@class=&quot;theme-login-form&quot;]/div[@class=&quot;flex space-around _p-5&quot;]/div[@class=&quot;form-group mb-0 mr-10&quot;]/label[1]</value>
+      <webElementGuid>c57de981-583e-44dd-ae75-0c505626641a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/div/div/div/div/div/div[2]/div/form/div/div[2]/label</value>
+      <webElementGuid>eac38ef5-0b12-4bd2-9b40-da96894efca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UCI ID'])[1]/following::label[1]</value>
+      <webElementGuid>9ef3aa6b-0b76-472b-96ac-fb1811a2951f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::label[2]</value>
+      <webElementGuid>a2013c53-9192-4137-8abb-086c993c97cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart ID'])[1]/preceding::label[1]</value>
+      <webElementGuid>c391933f-23d4-4992-aae4-9262072a3f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case ID'])[1]/preceding::label[2]</value>
+      <webElementGuid>f300a3fc-7f9b-4003-a57c-92de2df01ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Client ID']/parent::*</value>
+      <webElementGuid>ba26e667-867e-46e1-b0b6-f67942b20c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>90ba7aee-f025-4fc8-a60f-8becbf372469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Client ID' or . = 'Client ID')]</value>
+      <webElementGuid>829a18fe-c289-431a-9edf-b5f5a4261f47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
